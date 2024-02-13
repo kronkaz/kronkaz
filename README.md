@@ -1,9 +1,14 @@
-### Hi there 👋
+# 🏠 Welcome
+
+<!-- <img align="center" src="./.jpg"/> -->
+
+<!-- I am ... -->
+
+<!-- Currently,  I do ... -->
 
 <!--
-**kronkaz/kronkaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 Interests
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +18,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 🛠 Skills
+Professional:
+  <img src="https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=OCaml&logoColor=white"/>
+  ...
+
+Proficient:
+  <img src="https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=OCaml&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/>
+  ...
+
+## 🔗 Links
+- website
+- [Curriculum Vitae](...)
 -->
